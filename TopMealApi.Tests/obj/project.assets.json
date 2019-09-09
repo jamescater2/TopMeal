@@ -10072,11 +10072,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Doggies\\Documents\\source\\repos\\TopMeal\\TopMealApi.Tests\\TopMealApi.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\Doggies\\Documents\\source\\repos\\TopMeal\\TopMealApi.Tests\\TopMealApi.Tests.csproj",
       "projectName": "TopMealApi.Tests",
-      "projectPath": "C:\\Users\\Doggies\\Documents\\source\\repos\\TopMeal\\TopMealApi.Tests\\TopMealApi.Tests.csproj",
+      "projectPath": "c:\\Users\\Doggies\\Documents\\source\\repos\\TopMeal\\TopMealApi.Tests\\TopMealApi.Tests.csproj",
       "packagesPath": "C:\\Users\\Doggies\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Doggies\\Documents\\source\\repos\\TopMeal\\TopMealApi.Tests\\obj\\",
+      "outputPath": "c:\\Users\\Doggies\\Documents\\source\\repos\\TopMeal\\TopMealApi.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10095,8 +10095,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Doggies\\Documents\\source\\repos\\TopMeal\\TopMealApi\\TopMealApi.csproj": {
-              "projectPath": "C:\\Users\\Doggies\\Documents\\source\\repos\\TopMeal\\TopMealApi\\TopMealApi.csproj"
+            "c:\\Users\\Doggies\\Documents\\source\\repos\\TopMeal\\TopMealApi\\TopMealApi.csproj": {
+              "projectPath": "c:\\Users\\Doggies\\Documents\\source\\repos\\TopMeal\\TopMealApi\\TopMealApi.csproj"
             }
           }
         }
